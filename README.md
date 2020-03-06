@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [About the game:](#about)
+* [How to play?](#play)
+* [How to open the game](#browser)
 
-## Instructions
+## About the game:
+  In this project we used Javascript to make memory matching game, where the player should match all the hidden cards and flip them all open to win game.
+  There's a timer that starts when the firs icon is clicked, and number of stars that decreases with many 'Moves' clicks
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## How to play?
 
-To get started, open `js/app.js` and start building out the app's functionality
+  Click on the first icon to make it flip open, then click on another one, the program will check if they match or not and give you 3 seconds to memorize the icon, then keep matching the other cards until you get the winning massage.
+## How to open the game:
+  Click on "index.html" file right click, go to open and choose the browser you
+  want to use the program in.
+  This program is available in all browser and systems.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
